@@ -1,0 +1,2410 @@
+{
+  "year": 2026,
+  "month": 6,
+  "generatedAt": "2026-02-24T06:05:11.897Z",
+  "days": [
+    {
+      "date": "2026-06-01",
+      "moonPhase": {
+        "angle": 192.4,
+        "name": "Waning Gibbous",
+        "illumination": 0.99,
+        "isExactQuarter": false
+      },
+      "moonSign": "Sagittarius",
+      "sunSign": "Gemini",
+      "voidOfCourseMoon": {
+        "isVoid": false,
+        "startTime": null,
+        "endTime": null
+      },
+      "planetaryAspects": [
+        {
+          "aspect": "square",
+          "planet1": "Sun",
+          "planet2": "Mercury",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "square",
+          "planet1": "Sun",
+          "planet2": "Venus",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "sextile",
+          "planet1": "Sun",
+          "planet2": "Saturn",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "trine",
+          "planet1": "Moon",
+          "planet2": "Mars",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "conjunction",
+          "planet1": "Mercury",
+          "planet2": "Venus",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "trine",
+          "planet1": "Jupiter",
+          "planet2": "Saturn",
+          "isHarmonious": true
+        }
+      ],
+      "retrograde": [],
+      "chinese": {
+        "lunarDate": "五月十七",
+        "heavenlyStem": "丁",
+        "earthlyBranch": "酉",
+        "stemBranchDay": "丁酉",
+        "dayOfficer": "Balance",
+        "dayOfficerChinese": "平",
+        "auspiciousActivities": [
+          "Road repairs",
+          "Painting",
+          "Decorating"
+        ],
+        "inauspiciousActivities": [
+          "Marriage",
+          "Travel",
+          "Lawsuits"
+        ],
+        "element": "Fire",
+        "animalDay": "Rooster",
+        "clashAnimal": "Rabbit"
+      },
+      "score": 4,
+      "scoreLabel": "Good",
+      "summary": "Favorable planetary energy."
+    },
+    {
+      "date": "2026-06-02",
+      "moonPhase": {
+        "angle": 203.3,
+        "name": "Waning Gibbous",
+        "illumination": 0.96,
+        "isExactQuarter": false
+      },
+      "moonSign": "Capricorn",
+      "sunSign": "Gemini",
+      "voidOfCourseMoon": {
+        "isVoid": true,
+        "startTime": "21:38",
+        "endTime": "01:19"
+      },
+      "planetaryAspects": [
+        {
+          "aspect": "square",
+          "planet1": "Sun",
+          "planet2": "Mercury",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "square",
+          "planet1": "Sun",
+          "planet2": "Venus",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "square",
+          "planet1": "Moon",
+          "planet2": "Saturn",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "conjunction",
+          "planet1": "Mercury",
+          "planet2": "Venus",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "trine",
+          "planet1": "Jupiter",
+          "planet2": "Saturn",
+          "isHarmonious": true
+        }
+      ],
+      "retrograde": [],
+      "chinese": {
+        "lunarDate": "五月十八",
+        "heavenlyStem": "戊",
+        "earthlyBranch": "戌",
+        "stemBranchDay": "戊戌",
+        "dayOfficer": "Stable",
+        "dayOfficerChinese": "定",
+        "auspiciousActivities": [
+          "Marriage",
+          "Engagements",
+          "Construction",
+          "Moving",
+          "Signing contracts"
+        ],
+        "inauspiciousActivities": [
+          "Lawsuits",
+          "Travel far"
+        ],
+        "element": "Earth",
+        "animalDay": "Dog",
+        "clashAnimal": "Dragon"
+      },
+      "score": 3,
+      "scoreLabel": "Neutral",
+      "summary": "Challenging aspects present. Moon void-of-course."
+    },
+    {
+      "date": "2026-06-03",
+      "moonPhase": {
+        "angle": 214.2,
+        "name": "Waning Gibbous",
+        "illumination": 0.91,
+        "isExactQuarter": false
+      },
+      "moonSign": "Capricorn",
+      "sunSign": "Gemini",
+      "voidOfCourseMoon": {
+        "isVoid": false,
+        "startTime": null,
+        "endTime": null
+      },
+      "planetaryAspects": [
+        {
+          "aspect": "square",
+          "planet1": "Sun",
+          "planet2": "Mercury",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "square",
+          "planet1": "Sun",
+          "planet2": "Venus",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "trine",
+          "planet1": "Moon",
+          "planet2": "Mercury",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "trine",
+          "planet1": "Moon",
+          "planet2": "Venus",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "square",
+          "planet1": "Moon",
+          "planet2": "Mars",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "conjunction",
+          "planet1": "Mercury",
+          "planet2": "Venus",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "trine",
+          "planet1": "Jupiter",
+          "planet2": "Saturn",
+          "isHarmonious": true
+        }
+      ],
+      "retrograde": [],
+      "chinese": {
+        "lunarDate": "五月十九",
+        "heavenlyStem": "己",
+        "earthlyBranch": "亥",
+        "stemBranchDay": "己亥",
+        "dayOfficer": "Initiate",
+        "dayOfficerChinese": "执",
+        "auspiciousActivities": [
+          "Construction",
+          "Planting",
+          "Catching pests"
+        ],
+        "inauspiciousActivities": [
+          "Moving",
+          "Travel",
+          "Opening business"
+        ],
+        "element": "Earth",
+        "animalDay": "Pig",
+        "clashAnimal": "Snake"
+      },
+      "score": 3,
+      "scoreLabel": "Neutral",
+      "summary": "Favorable planetary energy."
+    },
+    {
+      "date": "2026-06-04",
+      "moonPhase": {
+        "angle": 225.2,
+        "name": "Waning Gibbous",
+        "illumination": 0.85,
+        "isExactQuarter": false
+      },
+      "moonSign": "Capricorn",
+      "sunSign": "Gemini",
+      "voidOfCourseMoon": {
+        "isVoid": true,
+        "startTime": "11:37",
+        "endTime": "13:45"
+      },
+      "planetaryAspects": [
+        {
+          "aspect": "square",
+          "planet1": "Sun",
+          "planet2": "Venus",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "opposition",
+          "planet1": "Moon",
+          "planet2": "Jupiter",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "conjunction",
+          "planet1": "Mercury",
+          "planet2": "Venus",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "trine",
+          "planet1": "Jupiter",
+          "planet2": "Saturn",
+          "isHarmonious": true
+        }
+      ],
+      "retrograde": [],
+      "chinese": {
+        "lunarDate": "五月十九",
+        "heavenlyStem": "庚",
+        "earthlyBranch": "子",
+        "stemBranchDay": "庚子",
+        "dayOfficer": "Break",
+        "dayOfficerChinese": "破",
+        "auspiciousActivities": [
+          "Demolition",
+          "Medical treatment"
+        ],
+        "inauspiciousActivities": [
+          "Marriage",
+          "Moving",
+          "Opening business",
+          "Signing contracts",
+          "Travel"
+        ],
+        "element": "Metal",
+        "animalDay": "Rat",
+        "clashAnimal": "Horse"
+      },
+      "score": 3,
+      "scoreLabel": "Neutral",
+      "summary": "Moon void-of-course. Break day — caution advised."
+    },
+    {
+      "date": "2026-06-05",
+      "moonPhase": {
+        "angle": 236.3,
+        "name": "Waning Gibbous",
+        "illumination": 0.78,
+        "isExactQuarter": false
+      },
+      "moonSign": "Aquarius",
+      "sunSign": "Gemini",
+      "voidOfCourseMoon": {
+        "isVoid": false,
+        "startTime": null,
+        "endTime": null
+      },
+      "planetaryAspects": [
+        {
+          "aspect": "trine",
+          "planet1": "Sun",
+          "planet2": "Moon",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "square",
+          "planet1": "Sun",
+          "planet2": "Venus",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "trine",
+          "planet1": "Jupiter",
+          "planet2": "Saturn",
+          "isHarmonious": true
+        }
+      ],
+      "retrograde": [],
+      "chinese": {
+        "lunarDate": "五月二十",
+        "heavenlyStem": "辛",
+        "earthlyBranch": "丑",
+        "stemBranchDay": "辛丑",
+        "dayOfficer": "Danger",
+        "dayOfficerChinese": "危",
+        "auspiciousActivities": [
+          "Worship",
+          "Fasting",
+          "Quiet activities"
+        ],
+        "inauspiciousActivities": [
+          "Construction",
+          "Moving",
+          "Travel",
+          "Marriage",
+          "Opening business"
+        ],
+        "element": "Metal",
+        "animalDay": "Ox",
+        "clashAnimal": "Goat"
+      },
+      "score": 4,
+      "scoreLabel": "Good",
+      "summary": "Favorable planetary energy."
+    },
+    {
+      "date": "2026-06-06",
+      "moonPhase": {
+        "angle": 247.6,
+        "name": "Waning Gibbous",
+        "illumination": 0.69,
+        "isExactQuarter": false
+      },
+      "moonSign": "Aquarius",
+      "sunSign": "Gemini",
+      "voidOfCourseMoon": {
+        "isVoid": false,
+        "startTime": null,
+        "endTime": null
+      },
+      "planetaryAspects": [
+        {
+          "aspect": "square",
+          "planet1": "Sun",
+          "planet2": "Venus",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "sextile",
+          "planet1": "Moon",
+          "planet2": "Mars",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "sextile",
+          "planet1": "Mercury",
+          "planet2": "Jupiter",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "opposition",
+          "planet1": "Mercury",
+          "planet2": "Saturn",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "trine",
+          "planet1": "Jupiter",
+          "planet2": "Saturn",
+          "isHarmonious": true
+        }
+      ],
+      "retrograde": [],
+      "chinese": {
+        "lunarDate": "五月廿一",
+        "heavenlyStem": "壬",
+        "earthlyBranch": "寅",
+        "stemBranchDay": "壬寅",
+        "dayOfficer": "Success",
+        "dayOfficerChinese": "成",
+        "auspiciousActivities": [
+          "Marriage",
+          "Opening business",
+          "Construction",
+          "Moving",
+          "Signing contracts",
+          "Travel"
+        ],
+        "inauspiciousActivities": [
+          "Lawsuits"
+        ],
+        "element": "Water",
+        "animalDay": "Tiger",
+        "clashAnimal": "Monkey"
+      },
+      "score": 4,
+      "scoreLabel": "Good",
+      "summary": "Favorable planetary energy. Success day."
+    },
+    {
+      "date": "2026-06-07",
+      "moonPhase": {
+        "angle": 259.1,
+        "name": "Waning Gibbous",
+        "illumination": 0.59,
+        "isExactQuarter": false
+      },
+      "moonSign": "Pisces",
+      "sunSign": "Gemini",
+      "voidOfCourseMoon": {
+        "isVoid": true,
+        "startTime": "22:41",
+        "endTime": "00:42"
+      },
+      "planetaryAspects": [
+        {
+          "aspect": "square",
+          "planet1": "Sun",
+          "planet2": "Venus",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "sextile",
+          "planet1": "Mercury",
+          "planet2": "Jupiter",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "opposition",
+          "planet1": "Mercury",
+          "planet2": "Saturn",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "trine",
+          "planet1": "Jupiter",
+          "planet2": "Saturn",
+          "isHarmonious": true
+        }
+      ],
+      "retrograde": [],
+      "chinese": {
+        "lunarDate": "五月廿二",
+        "heavenlyStem": "癸",
+        "earthlyBranch": "卯",
+        "stemBranchDay": "癸卯",
+        "dayOfficer": "Receive",
+        "dayOfficerChinese": "收",
+        "auspiciousActivities": [
+          "Collecting debts",
+          "Savings",
+          "Storage",
+          "Harvest"
+        ],
+        "inauspiciousActivities": [
+          "Medical treatment",
+          "Funerals"
+        ],
+        "element": "Water",
+        "animalDay": "Rabbit",
+        "clashAnimal": "Rooster"
+      },
+      "score": 3,
+      "scoreLabel": "Neutral",
+      "summary": "Moon void-of-course."
+    },
+    {
+      "date": "2026-06-08",
+      "moonPhase": {
+        "angle": 271,
+        "name": "Third Quarter",
+        "illumination": 0.49,
+        "isExactQuarter": true
+      },
+      "moonSign": "Pisces",
+      "sunSign": "Gemini",
+      "voidOfCourseMoon": {
+        "isVoid": false,
+        "startTime": null,
+        "endTime": null
+      },
+      "planetaryAspects": [
+        {
+          "aspect": "square",
+          "planet1": "Sun",
+          "planet2": "Moon",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "square",
+          "planet1": "Sun",
+          "planet2": "Venus",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "opposition",
+          "planet1": "Moon",
+          "planet2": "Venus",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "opposition",
+          "planet1": "Mercury",
+          "planet2": "Saturn",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "trine",
+          "planet1": "Jupiter",
+          "planet2": "Saturn",
+          "isHarmonious": true
+        }
+      ],
+      "retrograde": [],
+      "chinese": {
+        "lunarDate": "五月廿三",
+        "heavenlyStem": "甲",
+        "earthlyBranch": "辰",
+        "stemBranchDay": "甲辰",
+        "dayOfficer": "Open",
+        "dayOfficerChinese": "开",
+        "auspiciousActivities": [
+          "Opening business",
+          "Marriage",
+          "Moving",
+          "Construction",
+          "Travel",
+          "Celebrations"
+        ],
+        "inauspiciousActivities": [
+          "Funerals"
+        ],
+        "element": "Wood",
+        "animalDay": "Dragon",
+        "clashAnimal": "Dog"
+      },
+      "score": 4,
+      "scoreLabel": "Good",
+      "summary": "Third Quarter in Pisces. Challenging aspects present. Open day."
+    },
+    {
+      "date": "2026-06-09",
+      "moonPhase": {
+        "angle": 283.2,
+        "name": "Waning Crescent",
+        "illumination": 0.39,
+        "isExactQuarter": false
+      },
+      "moonSign": "Aries",
+      "sunSign": "Gemini",
+      "voidOfCourseMoon": {
+        "isVoid": true,
+        "startTime": "05:16",
+        "endTime": "08:33"
+      },
+      "planetaryAspects": [
+        {
+          "aspect": "square",
+          "planet1": "Sun",
+          "planet2": "Venus",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "trine",
+          "planet1": "Moon",
+          "planet2": "Jupiter",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "conjunction",
+          "planet1": "Moon",
+          "planet2": "Saturn",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "opposition",
+          "planet1": "Mercury",
+          "planet2": "Saturn",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "trine",
+          "planet1": "Jupiter",
+          "planet2": "Saturn",
+          "isHarmonious": true
+        }
+      ],
+      "retrograde": [],
+      "chinese": {
+        "lunarDate": "五月廿四",
+        "heavenlyStem": "乙",
+        "earthlyBranch": "巳",
+        "stemBranchDay": "乙巳",
+        "dayOfficer": "Close",
+        "dayOfficerChinese": "闭",
+        "auspiciousActivities": [
+          "Storage",
+          "Burial",
+          "Quiet reflection"
+        ],
+        "inauspiciousActivities": [
+          "Opening business",
+          "Marriage",
+          "Construction",
+          "Moving",
+          "Travel"
+        ],
+        "element": "Wood",
+        "animalDay": "Snake",
+        "clashAnimal": "Pig"
+      },
+      "score": 3,
+      "scoreLabel": "Neutral",
+      "summary": "Favorable planetary energy. Moon void-of-course. Close day — caution advised."
+    },
+    {
+      "date": "2026-06-10",
+      "moonPhase": {
+        "angle": 295.9,
+        "name": "Waning Crescent",
+        "illumination": 0.28,
+        "isExactQuarter": false
+      },
+      "moonSign": "Aries",
+      "sunSign": "Gemini",
+      "voidOfCourseMoon": {
+        "isVoid": false,
+        "startTime": null,
+        "endTime": null
+      },
+      "planetaryAspects": [
+        {
+          "aspect": "trine",
+          "planet1": "Sun",
+          "planet2": "Mercury",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "square",
+          "planet1": "Sun",
+          "planet2": "Venus",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "opposition",
+          "planet1": "Moon",
+          "planet2": "Mercury",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "opposition",
+          "planet1": "Mercury",
+          "planet2": "Saturn",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "trine",
+          "planet1": "Jupiter",
+          "planet2": "Saturn",
+          "isHarmonious": true
+        }
+      ],
+      "retrograde": [],
+      "chinese": {
+        "lunarDate": "五月廿五",
+        "heavenlyStem": "丙",
+        "earthlyBranch": "午",
+        "stemBranchDay": "丙午",
+        "dayOfficer": "Establish",
+        "dayOfficerChinese": "建",
+        "auspiciousActivities": [
+          "Worship",
+          "Travel",
+          "Meeting friends"
+        ],
+        "inauspiciousActivities": [
+          "Construction",
+          "Moving",
+          "Opening business"
+        ],
+        "element": "Fire",
+        "animalDay": "Horse",
+        "clashAnimal": "Rat"
+      },
+      "score": 4,
+      "scoreLabel": "Good",
+      "summary": "Challenging aspects present."
+    },
+    {
+      "date": "2026-06-11",
+      "moonPhase": {
+        "angle": 309.1,
+        "name": "Waning Crescent",
+        "illumination": 0.18,
+        "isExactQuarter": false
+      },
+      "moonSign": "Aries",
+      "sunSign": "Gemini",
+      "voidOfCourseMoon": {
+        "isVoid": true,
+        "startTime": "09:38",
+        "endTime": "12:28"
+      },
+      "planetaryAspects": [
+        {
+          "aspect": "trine",
+          "planet1": "Sun",
+          "planet2": "Mercury",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "square",
+          "planet1": "Sun",
+          "planet2": "Venus",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "sextile",
+          "planet1": "Sun",
+          "planet2": "Mars",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "conjunction",
+          "planet1": "Moon",
+          "planet2": "Mars",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "square",
+          "planet1": "Moon",
+          "planet2": "Jupiter",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "opposition",
+          "planet1": "Mercury",
+          "planet2": "Mars",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "trine",
+          "planet1": "Jupiter",
+          "planet2": "Saturn",
+          "isHarmonious": true
+        }
+      ],
+      "retrograde": [],
+      "chinese": {
+        "lunarDate": "五月廿六",
+        "heavenlyStem": "丁",
+        "earthlyBranch": "未",
+        "stemBranchDay": "丁未",
+        "dayOfficer": "Remove",
+        "dayOfficerChinese": "除",
+        "auspiciousActivities": [
+          "Cleaning",
+          "Medical treatment",
+          "Pest control",
+          "Ending bad habits"
+        ],
+        "inauspiciousActivities": [
+          "Marriage",
+          "Opening business"
+        ],
+        "element": "Fire",
+        "animalDay": "Goat",
+        "clashAnimal": "Ox"
+      },
+      "score": 4,
+      "scoreLabel": "Good",
+      "summary": "Favorable planetary energy. Moon void-of-course."
+    },
+    {
+      "date": "2026-06-12",
+      "moonPhase": {
+        "angle": 322.8,
+        "name": "Waning Crescent",
+        "illumination": 0.1,
+        "isExactQuarter": false
+      },
+      "moonSign": "Taurus",
+      "sunSign": "Gemini",
+      "voidOfCourseMoon": {
+        "isVoid": false,
+        "startTime": null,
+        "endTime": null
+      },
+      "planetaryAspects": [
+        {
+          "aspect": "trine",
+          "planet1": "Sun",
+          "planet2": "Mercury",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "sextile",
+          "planet1": "Sun",
+          "planet2": "Mars",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "opposition",
+          "planet1": "Mercury",
+          "planet2": "Mars",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "trine",
+          "planet1": "Jupiter",
+          "planet2": "Saturn",
+          "isHarmonious": true
+        }
+      ],
+      "retrograde": [],
+      "chinese": {
+        "lunarDate": "五月廿七",
+        "heavenlyStem": "戊",
+        "earthlyBranch": "申",
+        "stemBranchDay": "戊申",
+        "dayOfficer": "Full",
+        "dayOfficerChinese": "满",
+        "auspiciousActivities": [
+          "Worship",
+          "Engagements",
+          "Moving",
+          "Construction"
+        ],
+        "inauspiciousActivities": [
+          "Medical treatment",
+          "Lawsuits"
+        ],
+        "element": "Earth",
+        "animalDay": "Monkey",
+        "clashAnimal": "Tiger"
+      },
+      "score": 4,
+      "scoreLabel": "Good",
+      "summary": "Favorable planetary energy."
+    },
+    {
+      "date": "2026-06-13",
+      "moonPhase": {
+        "angle": 336.8,
+        "name": "Waning Crescent",
+        "illumination": 0.04,
+        "isExactQuarter": false
+      },
+      "moonSign": "Taurus",
+      "sunSign": "Gemini",
+      "voidOfCourseMoon": {
+        "isVoid": true,
+        "startTime": "10:38",
+        "endTime": "13:05"
+      },
+      "planetaryAspects": [
+        {
+          "aspect": "trine",
+          "planet1": "Sun",
+          "planet2": "Mercury",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "sextile",
+          "planet1": "Sun",
+          "planet2": "Mars",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "trine",
+          "planet1": "Moon",
+          "planet2": "Venus",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "sextile",
+          "planet1": "Moon",
+          "planet2": "Jupiter",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "opposition",
+          "planet1": "Mercury",
+          "planet2": "Mars",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "sextile",
+          "planet1": "Venus",
+          "planet2": "Jupiter",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "opposition",
+          "planet1": "Venus",
+          "planet2": "Saturn",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "trine",
+          "planet1": "Jupiter",
+          "planet2": "Saturn",
+          "isHarmonious": true
+        }
+      ],
+      "retrograde": [],
+      "chinese": {
+        "lunarDate": "五月廿九",
+        "heavenlyStem": "己",
+        "earthlyBranch": "酉",
+        "stemBranchDay": "己酉",
+        "dayOfficer": "Balance",
+        "dayOfficerChinese": "平",
+        "auspiciousActivities": [
+          "Road repairs",
+          "Painting",
+          "Decorating"
+        ],
+        "inauspiciousActivities": [
+          "Marriage",
+          "Travel",
+          "Lawsuits"
+        ],
+        "element": "Earth",
+        "animalDay": "Rooster",
+        "clashAnimal": "Rabbit"
+      },
+      "score": 4,
+      "scoreLabel": "Good",
+      "summary": "Favorable planetary energy. Moon void-of-course."
+    },
+    {
+      "date": "2026-06-14",
+      "moonPhase": {
+        "angle": 351.1,
+        "name": "Waning Crescent",
+        "illumination": 0.01,
+        "isExactQuarter": false
+      },
+      "moonSign": "Gemini",
+      "sunSign": "Gemini",
+      "voidOfCourseMoon": {
+        "isVoid": false,
+        "startTime": null,
+        "endTime": null
+      },
+      "planetaryAspects": [
+        {
+          "aspect": "trine",
+          "planet1": "Sun",
+          "planet2": "Mercury",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "sextile",
+          "planet1": "Sun",
+          "planet2": "Mars",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "opposition",
+          "planet1": "Mercury",
+          "planet2": "Mars",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "square",
+          "planet1": "Mercury",
+          "planet2": "Jupiter",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "sextile",
+          "planet1": "Venus",
+          "planet2": "Jupiter",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "opposition",
+          "planet1": "Venus",
+          "planet2": "Saturn",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "trine",
+          "planet1": "Jupiter",
+          "planet2": "Saturn",
+          "isHarmonious": true
+        }
+      ],
+      "retrograde": [],
+      "chinese": {
+        "lunarDate": "五月三十",
+        "heavenlyStem": "庚",
+        "earthlyBranch": "戌",
+        "stemBranchDay": "庚戌",
+        "dayOfficer": "Stable",
+        "dayOfficerChinese": "定",
+        "auspiciousActivities": [
+          "Marriage",
+          "Engagements",
+          "Construction",
+          "Moving",
+          "Signing contracts"
+        ],
+        "inauspiciousActivities": [
+          "Lawsuits",
+          "Travel far"
+        ],
+        "element": "Metal",
+        "animalDay": "Dog",
+        "clashAnimal": "Dragon"
+      },
+      "score": 4,
+      "scoreLabel": "Good",
+      "summary": "Favorable planetary energy."
+    },
+    {
+      "date": "2026-06-15",
+      "moonPhase": {
+        "angle": 5.4,
+        "name": "Waxing Crescent",
+        "illumination": 0,
+        "isExactQuarter": false
+      },
+      "moonSign": "Gemini",
+      "sunSign": "Gemini",
+      "voidOfCourseMoon": {
+        "isVoid": true,
+        "startTime": "08:29",
+        "endTime": "12:14"
+      },
+      "planetaryAspects": [
+        {
+          "aspect": "conjunction",
+          "planet1": "Sun",
+          "planet2": "Moon",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "sextile",
+          "planet1": "Sun",
+          "planet2": "Mars",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "trine",
+          "planet1": "Moon",
+          "planet2": "Mercury",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "square",
+          "planet1": "Moon",
+          "planet2": "Venus",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "sextile",
+          "planet1": "Moon",
+          "planet2": "Mars",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "opposition",
+          "planet1": "Mercury",
+          "planet2": "Mars",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "square",
+          "planet1": "Mercury",
+          "planet2": "Jupiter",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "sextile",
+          "planet1": "Venus",
+          "planet2": "Jupiter",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "opposition",
+          "planet1": "Venus",
+          "planet2": "Saturn",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "square",
+          "planet1": "Mars",
+          "planet2": "Jupiter",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "trine",
+          "planet1": "Jupiter",
+          "planet2": "Saturn",
+          "isHarmonious": true
+        }
+      ],
+      "retrograde": [],
+      "chinese": {
+        "lunarDate": "六月初一",
+        "heavenlyStem": "辛",
+        "earthlyBranch": "亥",
+        "stemBranchDay": "辛亥",
+        "dayOfficer": "Initiate",
+        "dayOfficerChinese": "执",
+        "auspiciousActivities": [
+          "Construction",
+          "Planting",
+          "Catching pests"
+        ],
+        "inauspiciousActivities": [
+          "Moving",
+          "Travel",
+          "Opening business"
+        ],
+        "element": "Metal",
+        "animalDay": "Pig",
+        "clashAnimal": "Snake"
+      },
+      "score": 3,
+      "scoreLabel": "Neutral",
+      "summary": "Favorable planetary energy. Moon void-of-course."
+    },
+    {
+      "date": "2026-06-16",
+      "moonPhase": {
+        "angle": 19.7,
+        "name": "Waxing Crescent",
+        "illumination": 0.03,
+        "isExactQuarter": false
+      },
+      "moonSign": "Cancer",
+      "sunSign": "Gemini",
+      "voidOfCourseMoon": {
+        "isVoid": false,
+        "startTime": null,
+        "endTime": null
+      },
+      "planetaryAspects": [
+        {
+          "aspect": "sextile",
+          "planet1": "Sun",
+          "planet2": "Mars",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "opposition",
+          "planet1": "Mercury",
+          "planet2": "Mars",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "square",
+          "planet1": "Mercury",
+          "planet2": "Jupiter",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "sextile",
+          "planet1": "Venus",
+          "planet2": "Jupiter",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "opposition",
+          "planet1": "Venus",
+          "planet2": "Saturn",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "square",
+          "planet1": "Mars",
+          "planet2": "Jupiter",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "trine",
+          "planet1": "Jupiter",
+          "planet2": "Saturn",
+          "isHarmonious": true
+        }
+      ],
+      "retrograde": [],
+      "chinese": {
+        "lunarDate": "六月初三",
+        "heavenlyStem": "壬",
+        "earthlyBranch": "子",
+        "stemBranchDay": "壬子",
+        "dayOfficer": "Break",
+        "dayOfficerChinese": "破",
+        "auspiciousActivities": [
+          "Demolition",
+          "Medical treatment"
+        ],
+        "inauspiciousActivities": [
+          "Marriage",
+          "Moving",
+          "Opening business",
+          "Signing contracts",
+          "Travel"
+        ],
+        "element": "Water",
+        "animalDay": "Rat",
+        "clashAnimal": "Horse"
+      },
+      "score": 3,
+      "scoreLabel": "Neutral",
+      "summary": "Challenging aspects present. Break day — caution advised."
+    },
+    {
+      "date": "2026-06-17",
+      "moonPhase": {
+        "angle": 33.6,
+        "name": "Waxing Crescent",
+        "illumination": 0.08,
+        "isExactQuarter": false
+      },
+      "moonSign": "Cancer",
+      "sunSign": "Gemini",
+      "voidOfCourseMoon": {
+        "isVoid": true,
+        "startTime": "09:38",
+        "endTime": "12:05"
+      },
+      "planetaryAspects": [
+        {
+          "aspect": "sextile",
+          "planet1": "Sun",
+          "planet2": "Mars",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "square",
+          "planet1": "Moon",
+          "planet2": "Mars",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "conjunction",
+          "planet1": "Moon",
+          "planet2": "Jupiter",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "square",
+          "planet1": "Mercury",
+          "planet2": "Jupiter",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "sextile",
+          "planet1": "Venus",
+          "planet2": "Jupiter",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "opposition",
+          "planet1": "Venus",
+          "planet2": "Saturn",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "square",
+          "planet1": "Mars",
+          "planet2": "Jupiter",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "trine",
+          "planet1": "Jupiter",
+          "planet2": "Saturn",
+          "isHarmonious": true
+        }
+      ],
+      "retrograde": [],
+      "chinese": {
+        "lunarDate": "六月初四",
+        "heavenlyStem": "癸",
+        "earthlyBranch": "丑",
+        "stemBranchDay": "癸丑",
+        "dayOfficer": "Danger",
+        "dayOfficerChinese": "危",
+        "auspiciousActivities": [
+          "Worship",
+          "Fasting",
+          "Quiet activities"
+        ],
+        "inauspiciousActivities": [
+          "Construction",
+          "Moving",
+          "Travel",
+          "Marriage",
+          "Opening business"
+        ],
+        "element": "Water",
+        "animalDay": "Ox",
+        "clashAnimal": "Goat"
+      },
+      "score": 3,
+      "scoreLabel": "Neutral",
+      "summary": "Moon void-of-course."
+    },
+    {
+      "date": "2026-06-18",
+      "moonPhase": {
+        "angle": 47.2,
+        "name": "Waxing Crescent",
+        "illumination": 0.16,
+        "isExactQuarter": false
+      },
+      "moonSign": "Leo",
+      "sunSign": "Gemini",
+      "voidOfCourseMoon": {
+        "isVoid": false,
+        "startTime": null,
+        "endTime": null
+      },
+      "planetaryAspects": [
+        {
+          "aspect": "sextile",
+          "planet1": "Sun",
+          "planet2": "Mars",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "square",
+          "planet1": "Moon",
+          "planet2": "Mercury",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "opposition",
+          "planet1": "Venus",
+          "planet2": "Saturn",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "square",
+          "planet1": "Mars",
+          "planet2": "Jupiter",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "trine",
+          "planet1": "Jupiter",
+          "planet2": "Saturn",
+          "isHarmonious": true
+        }
+      ],
+      "retrograde": [],
+      "chinese": {
+        "lunarDate": "六月初五",
+        "heavenlyStem": "甲",
+        "earthlyBranch": "寅",
+        "stemBranchDay": "甲寅",
+        "dayOfficer": "Success",
+        "dayOfficerChinese": "成",
+        "auspiciousActivities": [
+          "Marriage",
+          "Opening business",
+          "Construction",
+          "Moving",
+          "Signing contracts",
+          "Travel"
+        ],
+        "inauspiciousActivities": [
+          "Lawsuits"
+        ],
+        "element": "Wood",
+        "animalDay": "Tiger",
+        "clashAnimal": "Monkey"
+      },
+      "score": 4,
+      "scoreLabel": "Good",
+      "summary": "Challenging aspects present. Success day."
+    },
+    {
+      "date": "2026-06-19",
+      "moonPhase": {
+        "angle": 60.3,
+        "name": "Waxing Crescent",
+        "illumination": 0.25,
+        "isExactQuarter": false
+      },
+      "moonSign": "Leo",
+      "sunSign": "Gemini",
+      "voidOfCourseMoon": {
+        "isVoid": true,
+        "startTime": "10:50",
+        "endTime": "14:36"
+      },
+      "planetaryAspects": [
+        {
+          "aspect": "sextile",
+          "planet1": "Sun",
+          "planet2": "Moon",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "sextile",
+          "planet1": "Sun",
+          "planet2": "Mars",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "trine",
+          "planet1": "Moon",
+          "planet2": "Mars",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "opposition",
+          "planet1": "Venus",
+          "planet2": "Saturn",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "square",
+          "planet1": "Mars",
+          "planet2": "Jupiter",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "trine",
+          "planet1": "Jupiter",
+          "planet2": "Saturn",
+          "isHarmonious": true
+        }
+      ],
+      "retrograde": [],
+      "chinese": {
+        "lunarDate": "六月初六",
+        "heavenlyStem": "乙",
+        "earthlyBranch": "卯",
+        "stemBranchDay": "乙卯",
+        "dayOfficer": "Receive",
+        "dayOfficerChinese": "收",
+        "auspiciousActivities": [
+          "Collecting debts",
+          "Savings",
+          "Storage",
+          "Harvest"
+        ],
+        "inauspiciousActivities": [
+          "Medical treatment",
+          "Funerals"
+        ],
+        "element": "Wood",
+        "animalDay": "Rabbit",
+        "clashAnimal": "Rooster"
+      },
+      "score": 4,
+      "scoreLabel": "Good",
+      "summary": "Favorable planetary energy. Moon void-of-course."
+    },
+    {
+      "date": "2026-06-20",
+      "moonPhase": {
+        "angle": 72.9,
+        "name": "Waxing Crescent",
+        "illumination": 0.35,
+        "isExactQuarter": false
+      },
+      "moonSign": "Virgo",
+      "sunSign": "Gemini",
+      "voidOfCourseMoon": {
+        "isVoid": false,
+        "startTime": null,
+        "endTime": null
+      },
+      "planetaryAspects": [
+        {
+          "aspect": "sextile",
+          "planet1": "Sun",
+          "planet2": "Mars",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "opposition",
+          "planet1": "Venus",
+          "planet2": "Saturn",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "square",
+          "planet1": "Mars",
+          "planet2": "Jupiter",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "trine",
+          "planet1": "Jupiter",
+          "planet2": "Saturn",
+          "isHarmonious": true
+        }
+      ],
+      "retrograde": [],
+      "chinese": {
+        "lunarDate": "六月初七",
+        "heavenlyStem": "丙",
+        "earthlyBranch": "辰",
+        "stemBranchDay": "丙辰",
+        "dayOfficer": "Open",
+        "dayOfficerChinese": "开",
+        "auspiciousActivities": [
+          "Opening business",
+          "Marriage",
+          "Moving",
+          "Construction",
+          "Travel",
+          "Celebrations"
+        ],
+        "inauspiciousActivities": [
+          "Funerals"
+        ],
+        "element": "Fire",
+        "animalDay": "Dragon",
+        "clashAnimal": "Dog"
+      },
+      "score": 4,
+      "scoreLabel": "Good",
+      "summary": "Open day."
+    },
+    {
+      "date": "2026-06-21",
+      "moonPhase": {
+        "angle": 85.1,
+        "name": "First Quarter",
+        "illumination": 0.46,
+        "isExactQuarter": true
+      },
+      "moonSign": "Virgo",
+      "sunSign": "Cancer",
+      "voidOfCourseMoon": {
+        "isVoid": true,
+        "startTime": "17:13",
+        "endTime": "20:54"
+      },
+      "planetaryAspects": [
+        {
+          "aspect": "square",
+          "planet1": "Sun",
+          "planet2": "Moon",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "sextile",
+          "planet1": "Sun",
+          "planet2": "Mars",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "opposition",
+          "planet1": "Venus",
+          "planet2": "Saturn",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "square",
+          "planet1": "Mars",
+          "planet2": "Jupiter",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "trine",
+          "planet1": "Jupiter",
+          "planet2": "Saturn",
+          "isHarmonious": true
+        }
+      ],
+      "retrograde": [],
+      "chinese": {
+        "lunarDate": "六月初八",
+        "heavenlyStem": "丁",
+        "earthlyBranch": "巳",
+        "stemBranchDay": "丁巳",
+        "dayOfficer": "Close",
+        "dayOfficerChinese": "闭",
+        "auspiciousActivities": [
+          "Storage",
+          "Burial",
+          "Quiet reflection"
+        ],
+        "inauspiciousActivities": [
+          "Opening business",
+          "Marriage",
+          "Construction",
+          "Moving",
+          "Travel"
+        ],
+        "element": "Fire",
+        "animalDay": "Snake",
+        "clashAnimal": "Pig"
+      },
+      "score": 3,
+      "scoreLabel": "Neutral",
+      "summary": "First Quarter in Virgo. Challenging aspects present. Moon void-of-course. Close day — caution advised."
+    },
+    {
+      "date": "2026-06-22",
+      "moonPhase": {
+        "angle": 96.9,
+        "name": "Waxing Gibbous",
+        "illumination": 0.56,
+        "isExactQuarter": false
+      },
+      "moonSign": "Libra",
+      "sunSign": "Cancer",
+      "voidOfCourseMoon": {
+        "isVoid": false,
+        "startTime": null,
+        "endTime": null
+      },
+      "planetaryAspects": [
+        {
+          "aspect": "sextile",
+          "planet1": "Sun",
+          "planet2": "Mars",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "conjunction",
+          "planet1": "Moon",
+          "planet2": "Venus",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "opposition",
+          "planet1": "Moon",
+          "planet2": "Saturn",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "opposition",
+          "planet1": "Venus",
+          "planet2": "Saturn",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "square",
+          "planet1": "Mars",
+          "planet2": "Jupiter",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "trine",
+          "planet1": "Jupiter",
+          "planet2": "Saturn",
+          "isHarmonious": true
+        }
+      ],
+      "retrograde": [],
+      "chinese": {
+        "lunarDate": "六月初九",
+        "heavenlyStem": "戊",
+        "earthlyBranch": "午",
+        "stemBranchDay": "戊午",
+        "dayOfficer": "Establish",
+        "dayOfficerChinese": "建",
+        "auspiciousActivities": [
+          "Worship",
+          "Travel",
+          "Meeting friends"
+        ],
+        "inauspiciousActivities": [
+          "Construction",
+          "Moving",
+          "Opening business"
+        ],
+        "element": "Earth",
+        "animalDay": "Horse",
+        "clashAnimal": "Rat"
+      },
+      "score": 4,
+      "scoreLabel": "Good",
+      "summary": "Generally favorable energy."
+    },
+    {
+      "date": "2026-06-23",
+      "moonPhase": {
+        "angle": 108.4,
+        "name": "Waxing Gibbous",
+        "illumination": 0.66,
+        "isExactQuarter": false
+      },
+      "moonSign": "Libra",
+      "sunSign": "Cancer",
+      "voidOfCourseMoon": {
+        "isVoid": false,
+        "startTime": null,
+        "endTime": null
+      },
+      "planetaryAspects": [
+        {
+          "aspect": "sextile",
+          "planet1": "Sun",
+          "planet2": "Mars",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "square",
+          "planet1": "Sun",
+          "planet2": "Saturn",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "conjunction",
+          "planet1": "Moon",
+          "planet2": "Venus",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "opposition",
+          "planet1": "Venus",
+          "planet2": "Saturn",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "square",
+          "planet1": "Mars",
+          "planet2": "Jupiter",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "trine",
+          "planet1": "Jupiter",
+          "planet2": "Saturn",
+          "isHarmonious": true
+        }
+      ],
+      "retrograde": [],
+      "chinese": {
+        "lunarDate": "六月初十",
+        "heavenlyStem": "己",
+        "earthlyBranch": "未",
+        "stemBranchDay": "己未",
+        "dayOfficer": "Remove",
+        "dayOfficerChinese": "除",
+        "auspiciousActivities": [
+          "Cleaning",
+          "Medical treatment",
+          "Pest control",
+          "Ending bad habits"
+        ],
+        "inauspiciousActivities": [
+          "Marriage",
+          "Opening business"
+        ],
+        "element": "Earth",
+        "animalDay": "Goat",
+        "clashAnimal": "Ox"
+      },
+      "score": 4,
+      "scoreLabel": "Good",
+      "summary": "Generally favorable energy."
+    },
+    {
+      "date": "2026-06-24",
+      "moonPhase": {
+        "angle": 119.7,
+        "name": "Waxing Gibbous",
+        "illumination": 0.75,
+        "isExactQuarter": false
+      },
+      "moonSign": "Scorpio",
+      "sunSign": "Cancer",
+      "voidOfCourseMoon": {
+        "isVoid": true,
+        "startTime": "04:25",
+        "endTime": "06:43"
+      },
+      "planetaryAspects": [
+        {
+          "aspect": "trine",
+          "planet1": "Sun",
+          "planet2": "Moon",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "sextile",
+          "planet1": "Sun",
+          "planet2": "Mars",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "square",
+          "planet1": "Sun",
+          "planet2": "Saturn",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "opposition",
+          "planet1": "Moon",
+          "planet2": "Mars",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "square",
+          "planet1": "Moon",
+          "planet2": "Jupiter",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "trine",
+          "planet1": "Mercury",
+          "planet2": "Jupiter",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "square",
+          "planet1": "Mars",
+          "planet2": "Jupiter",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "trine",
+          "planet1": "Jupiter",
+          "planet2": "Saturn",
+          "isHarmonious": true
+        }
+      ],
+      "retrograde": [],
+      "chinese": {
+        "lunarDate": "六月十一",
+        "heavenlyStem": "庚",
+        "earthlyBranch": "申",
+        "stemBranchDay": "庚申",
+        "dayOfficer": "Full",
+        "dayOfficerChinese": "满",
+        "auspiciousActivities": [
+          "Worship",
+          "Engagements",
+          "Moving",
+          "Construction"
+        ],
+        "inauspiciousActivities": [
+          "Medical treatment",
+          "Lawsuits"
+        ],
+        "element": "Metal",
+        "animalDay": "Monkey",
+        "clashAnimal": "Tiger"
+      },
+      "score": 4,
+      "scoreLabel": "Good",
+      "summary": "Moon void-of-course."
+    },
+    {
+      "date": "2026-06-25",
+      "moonPhase": {
+        "angle": 130.8,
+        "name": "Waxing Gibbous",
+        "illumination": 0.83,
+        "isExactQuarter": false
+      },
+      "moonSign": "Scorpio",
+      "sunSign": "Cancer",
+      "voidOfCourseMoon": {
+        "isVoid": false,
+        "startTime": null,
+        "endTime": null
+      },
+      "planetaryAspects": [
+        {
+          "aspect": "sextile",
+          "planet1": "Sun",
+          "planet2": "Mars",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "square",
+          "planet1": "Sun",
+          "planet2": "Saturn",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "trine",
+          "planet1": "Mercury",
+          "planet2": "Jupiter",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "square",
+          "planet1": "Mars",
+          "planet2": "Jupiter",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "trine",
+          "planet1": "Jupiter",
+          "planet2": "Saturn",
+          "isHarmonious": true
+        }
+      ],
+      "retrograde": [],
+      "chinese": {
+        "lunarDate": "六月十二",
+        "heavenlyStem": "辛",
+        "earthlyBranch": "酉",
+        "stemBranchDay": "辛酉",
+        "dayOfficer": "Balance",
+        "dayOfficerChinese": "平",
+        "auspiciousActivities": [
+          "Road repairs",
+          "Painting",
+          "Decorating"
+        ],
+        "inauspiciousActivities": [
+          "Marriage",
+          "Travel",
+          "Lawsuits"
+        ],
+        "element": "Metal",
+        "animalDay": "Rooster",
+        "clashAnimal": "Rabbit"
+      },
+      "score": 4,
+      "scoreLabel": "Good",
+      "summary": "Favorable planetary energy."
+    },
+    {
+      "date": "2026-06-26",
+      "moonPhase": {
+        "angle": 141.8,
+        "name": "Waxing Gibbous",
+        "illumination": 0.89,
+        "isExactQuarter": false
+      },
+      "moonSign": "Scorpio",
+      "sunSign": "Cancer",
+      "voidOfCourseMoon": {
+        "isVoid": true,
+        "startTime": "15:55",
+        "endTime": "18:40"
+      },
+      "planetaryAspects": [
+        {
+          "aspect": "sextile",
+          "planet1": "Sun",
+          "planet2": "Mars",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "square",
+          "planet1": "Sun",
+          "planet2": "Saturn",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "conjunction",
+          "planet1": "Moon",
+          "planet2": "Mercury",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "trine",
+          "planet1": "Mercury",
+          "planet2": "Jupiter",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "trine",
+          "planet1": "Mercury",
+          "planet2": "Saturn",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "square",
+          "planet1": "Mars",
+          "planet2": "Jupiter",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "trine",
+          "planet1": "Jupiter",
+          "planet2": "Saturn",
+          "isHarmonious": true
+        }
+      ],
+      "retrograde": [],
+      "chinese": {
+        "lunarDate": "六月十三",
+        "heavenlyStem": "壬",
+        "earthlyBranch": "戌",
+        "stemBranchDay": "壬戌",
+        "dayOfficer": "Stable",
+        "dayOfficerChinese": "定",
+        "auspiciousActivities": [
+          "Marriage",
+          "Engagements",
+          "Construction",
+          "Moving",
+          "Signing contracts"
+        ],
+        "inauspiciousActivities": [
+          "Lawsuits",
+          "Travel far"
+        ],
+        "element": "Water",
+        "animalDay": "Dog",
+        "clashAnimal": "Dragon"
+      },
+      "score": 4,
+      "scoreLabel": "Good",
+      "summary": "Favorable planetary energy. Moon void-of-course."
+    },
+    {
+      "date": "2026-06-27",
+      "moonPhase": {
+        "angle": 152.7,
+        "name": "Waxing Gibbous",
+        "illumination": 0.94,
+        "isExactQuarter": false
+      },
+      "moonSign": "Sagittarius",
+      "sunSign": "Cancer",
+      "voidOfCourseMoon": {
+        "isVoid": false,
+        "startTime": null,
+        "endTime": null
+      },
+      "planetaryAspects": [
+        {
+          "aspect": "sextile",
+          "planet1": "Sun",
+          "planet2": "Mars",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "square",
+          "planet1": "Sun",
+          "planet2": "Saturn",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "conjunction",
+          "planet1": "Moon",
+          "planet2": "Mercury",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "trine",
+          "planet1": "Moon",
+          "planet2": "Jupiter",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "trine",
+          "planet1": "Moon",
+          "planet2": "Saturn",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "trine",
+          "planet1": "Mercury",
+          "planet2": "Jupiter",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "trine",
+          "planet1": "Mercury",
+          "planet2": "Saturn",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "square",
+          "planet1": "Mars",
+          "planet2": "Jupiter",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "trine",
+          "planet1": "Jupiter",
+          "planet2": "Saturn",
+          "isHarmonious": true
+        }
+      ],
+      "retrograde": [],
+      "chinese": {
+        "lunarDate": "六月十四",
+        "heavenlyStem": "癸",
+        "earthlyBranch": "亥",
+        "stemBranchDay": "癸亥",
+        "dayOfficer": "Initiate",
+        "dayOfficerChinese": "执",
+        "auspiciousActivities": [
+          "Construction",
+          "Planting",
+          "Catching pests"
+        ],
+        "inauspiciousActivities": [
+          "Moving",
+          "Travel",
+          "Opening business"
+        ],
+        "element": "Water",
+        "animalDay": "Pig",
+        "clashAnimal": "Snake"
+      },
+      "score": 4,
+      "scoreLabel": "Good",
+      "summary": "Favorable planetary energy."
+    },
+    {
+      "date": "2026-06-28",
+      "moonPhase": {
+        "angle": 163.6,
+        "name": "Waxing Gibbous",
+        "illumination": 0.98,
+        "isExactQuarter": false
+      },
+      "moonSign": "Sagittarius",
+      "sunSign": "Cancer",
+      "voidOfCourseMoon": {
+        "isVoid": false,
+        "startTime": null,
+        "endTime": null
+      },
+      "planetaryAspects": [
+        {
+          "aspect": "sextile",
+          "planet1": "Sun",
+          "planet2": "Mars",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "square",
+          "planet1": "Sun",
+          "planet2": "Saturn",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "sextile",
+          "planet1": "Moon",
+          "planet2": "Venus",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "trine",
+          "planet1": "Mercury",
+          "planet2": "Jupiter",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "trine",
+          "planet1": "Mercury",
+          "planet2": "Saturn",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "square",
+          "planet1": "Mars",
+          "planet2": "Jupiter",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "trine",
+          "planet1": "Jupiter",
+          "planet2": "Saturn",
+          "isHarmonious": true
+        }
+      ],
+      "retrograde": [],
+      "chinese": {
+        "lunarDate": "六月十四",
+        "heavenlyStem": "甲",
+        "earthlyBranch": "子",
+        "stemBranchDay": "甲子",
+        "dayOfficer": "Break",
+        "dayOfficerChinese": "破",
+        "auspiciousActivities": [
+          "Demolition",
+          "Medical treatment"
+        ],
+        "inauspiciousActivities": [
+          "Marriage",
+          "Moving",
+          "Opening business",
+          "Signing contracts",
+          "Travel"
+        ],
+        "element": "Wood",
+        "animalDay": "Rat",
+        "clashAnimal": "Horse"
+      },
+      "score": 4,
+      "scoreLabel": "Good",
+      "summary": "Favorable planetary energy. Break day — caution advised."
+    },
+    {
+      "date": "2026-06-29",
+      "moonPhase": {
+        "angle": 174.5,
+        "name": "Waxing Gibbous",
+        "illumination": 1,
+        "isExactQuarter": false
+      },
+      "moonSign": "Capricorn",
+      "sunSign": "Cancer",
+      "voidOfCourseMoon": {
+        "isVoid": true,
+        "startTime": "04:58",
+        "endTime": "07:18"
+      },
+      "planetaryAspects": [
+        {
+          "aspect": "opposition",
+          "planet1": "Sun",
+          "planet2": "Moon",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "sextile",
+          "planet1": "Sun",
+          "planet2": "Mars",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "square",
+          "planet1": "Sun",
+          "planet2": "Saturn",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "trine",
+          "planet1": "Moon",
+          "planet2": "Mars",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "square",
+          "planet1": "Moon",
+          "planet2": "Saturn",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "trine",
+          "planet1": "Mercury",
+          "planet2": "Saturn",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "square",
+          "planet1": "Mars",
+          "planet2": "Jupiter",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "trine",
+          "planet1": "Jupiter",
+          "planet2": "Saturn",
+          "isHarmonious": true
+        }
+      ],
+      "retrograde": [],
+      "chinese": {
+        "lunarDate": "六月十五",
+        "heavenlyStem": "乙",
+        "earthlyBranch": "丑",
+        "stemBranchDay": "乙丑",
+        "dayOfficer": "Danger",
+        "dayOfficerChinese": "危",
+        "auspiciousActivities": [
+          "Worship",
+          "Fasting",
+          "Quiet activities"
+        ],
+        "inauspiciousActivities": [
+          "Construction",
+          "Moving",
+          "Travel",
+          "Marriage",
+          "Opening business"
+        ],
+        "element": "Wood",
+        "animalDay": "Ox",
+        "clashAnimal": "Goat"
+      },
+      "score": 3,
+      "scoreLabel": "Neutral",
+      "summary": "Moon void-of-course."
+    },
+    {
+      "date": "2026-06-30",
+      "moonPhase": {
+        "angle": 185.5,
+        "name": "Waning Gibbous",
+        "illumination": 1,
+        "isExactQuarter": false
+      },
+      "moonSign": "Capricorn",
+      "sunSign": "Cancer",
+      "voidOfCourseMoon": {
+        "isVoid": false,
+        "startTime": null,
+        "endTime": null
+      },
+      "planetaryAspects": [
+        {
+          "aspect": "opposition",
+          "planet1": "Sun",
+          "planet2": "Moon",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "sextile",
+          "planet1": "Sun",
+          "planet2": "Mars",
+          "isHarmonious": true
+        },
+        {
+          "aspect": "square",
+          "planet1": "Sun",
+          "planet2": "Saturn",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "square",
+          "planet1": "Mars",
+          "planet2": "Jupiter",
+          "isHarmonious": false
+        },
+        {
+          "aspect": "trine",
+          "planet1": "Jupiter",
+          "planet2": "Saturn",
+          "isHarmonious": true
+        }
+      ],
+      "retrograde": [],
+      "chinese": {
+        "lunarDate": "六月十六",
+        "heavenlyStem": "丙",
+        "earthlyBranch": "寅",
+        "stemBranchDay": "丙寅",
+        "dayOfficer": "Success",
+        "dayOfficerChinese": "成",
+        "auspiciousActivities": [
+          "Marriage",
+          "Opening business",
+          "Construction",
+          "Moving",
+          "Signing contracts",
+          "Travel"
+        ],
+        "inauspiciousActivities": [
+          "Lawsuits"
+        ],
+        "element": "Fire",
+        "animalDay": "Tiger",
+        "clashAnimal": "Monkey"
+      },
+      "score": 4,
+      "scoreLabel": "Good",
+      "summary": "Challenging aspects present. Success day."
+    }
+  ]
+}
