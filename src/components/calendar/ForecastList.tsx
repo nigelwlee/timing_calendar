@@ -4,6 +4,7 @@ import { useState } from "react";
 import { format } from "date-fns";
 import { cn } from "@/lib/utils/cn";
 import { Badge } from "@/components/ui/Badge";
+import { CheckoutModal } from "@/components/calendar/CheckoutModal";
 import type { AuspiciousDayData, ScoreLabel } from "@/types";
 
 const SCORE_BORDER: Record<number, string> = {
@@ -52,6 +53,7 @@ function ForecastCard({ day, onClick }: { day: AuspiciousDayData; onClick?: () =
 
 export function ForecastList({ days, onSelectDay }: ForecastListProps) {
   const [unlocked, setUnlocked] = useState(false);
+  const [showCheckout, setShowCheckout] = useState(false);
 
   return (
     <div className="mt-8 sm:mt-10">
@@ -90,7 +92,7 @@ export function ForecastList({ days, onSelectDay }: ForecastListProps) {
                 See which days ahead are auspicious for your plans, meetings, and important decisions.
               </p>
               <button
-                onClick={() => setUnlocked(true)}
+                onClick={() => setShowCheckout(true)}
                 className="px-6 py-3 text-base font-semibold rounded-xl bg-gold-400 text-navy-950 hover:bg-gold-300 transition-colors shadow-lg shadow-gold-400/20 cursor-pointer"
               >
                 Purchase for $2.99
@@ -102,6 +104,15 @@ export function ForecastList({ days, onSelectDay }: ForecastListProps) {
           </div>
         </div>
       )}
+
+      <CheckoutModal
+        isOpen={showCheckout}
+        onClose={() => setShowCheckout(false)}
+        onSuccess={() => {
+          setShowCheckout(false);
+          setUnlocked(true);
+        }}
+      />
     </div>
   );
 }
