@@ -93,10 +93,10 @@ export function ForecastList({ days, onSelectDay }: ForecastListProps) {
                 onClick={() => setUnlocked(true)}
                 className="px-6 py-3 text-base font-semibold rounded-xl bg-gold-400 text-navy-950 hover:bg-gold-300 transition-colors shadow-lg shadow-gold-400/20 cursor-pointer"
               >
-                Start Free Trial
+                Purchase for $2.99
               </button>
               <p className="text-sm text-slate-500 mt-3">
-                No account required
+                One-time purchase
               </p>
             </div>
           </div>
