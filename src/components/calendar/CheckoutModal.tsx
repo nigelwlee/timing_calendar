@@ -10,10 +10,10 @@ interface CheckoutModalProps {
 }
 
 export function CheckoutModal({ isOpen, onClose, onSuccess }: CheckoutModalProps) {
-  const [cardNumber, setCardNumber] = useState("");
-  const [expiry, setExpiry] = useState("");
-  const [cvc, setCvc] = useState("");
-  const [name, setName] = useState("");
+  const [cardNumber, setCardNumber] = useState("4242 4242 4242 4242");
+  const [expiry, setExpiry] = useState("12 / 29");
+  const [cvc, setCvc] = useState("123");
+  const [name, setName] = useState("Test User");
   const [processing, setProcessing] = useState(false);
 
   function formatCardNumber(value: string) {

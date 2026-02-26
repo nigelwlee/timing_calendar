@@ -91,3 +91,15 @@ html {
   background: rgba(212, 168, 67, 0.3);
   color: #fff;
 }
+
+/* Reveal animation for forecast cards */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
