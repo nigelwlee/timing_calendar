@@ -58,9 +58,14 @@ export function TodayView() {
             />
           )}
 
-          {/* 7-day forecast (blurred paywall) */}
+          {/* 7-day forecast */}
           {forecastDays.length > 0 && (
-            <ForecastList days={forecastDays} />
+            <ForecastList
+              days={forecastDays}
+              onSelectDay={(date) =>
+                setSelectedDate((prev) => (prev === date ? null : date))
+              }
+            />
           )}
         </>
       )}
